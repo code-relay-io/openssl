@@ -1,3 +1,13 @@
+# Task #1
+
+https://github.com/openssl/openssl/issues/14109
+
+
+Remember your job is to make *incremental* progress, break the task into smaller tasks, or finish something in 15 minutes, then pass it along to the next contributor. 
+No responsibility, only fun.
+
+If you don't finish, add your next task to the readme.md. Oh and when you're done, make a pull request to the code-relay repo.
+
 Welcome to the OpenSSL Project
 ==============================
 
